@@ -26,6 +26,7 @@
 - [Harsa Dash](https://github.com/harsadas)
 - [Gopalakrishnan J](https://github.com/Gopalakrishnan20)
 - [Omarali1020](https://github.com/Omarali1020)
+- [Mahfujul Haque](https://github.com/Mihawk111)
 - [Hansie Kristi](https://github.com/hansie23)
 - [Redsam](https://github.com/Redsamx)
 - [Jenny F](https://github.com/J-Ning)
